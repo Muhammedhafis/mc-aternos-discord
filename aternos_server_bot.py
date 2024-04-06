@@ -3,7 +3,7 @@ import os
 from python_aternos import Client
 import time
 
-TOKEN = 'MTIyNTc2OTAwMTA1Mzg0NzU3Mg.GU1bfC.zUzoNoK88GHrUczs01AuRRmeM0k3ANgWPKCQOk'
+TOKEN = 'MTIyNTc2OTAwMTA1Mzg0NzU3Mg.G-jGMp.aXLP_yvJMD_BCICIcy_UyhUKqx666OehoFTqVs'
 
 client = discord.Client()
 
